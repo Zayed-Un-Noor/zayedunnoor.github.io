@@ -1,0 +1,29 @@
+body {
+  background-color: #bbbbbb;
+}
+
+h1 {
+  color:  #222831;
+}
+
+h4:hover {
+  color: #ef8d32;
+}
+
+hr {
+  border-color: #000000;
+  border-top-style: dotted;
+  border-bottom-style: none;
+  border-top-width: 3px;
+  width: 50%;
+}
+
+.deadpool {
+  background-color: #1e212d;
+}
+
+.deadpool{border-radius: 39%;}
+
+#heading {
+  color: #1e212d;
+}
